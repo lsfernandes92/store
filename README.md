@@ -1,24 +1,32 @@
-# README
+# getting started with rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 1. introduction
 
-Things you may want to cover:
+rails is a **web framework** built for ruby and used many features of the ruby language
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
 
-* Database creation
+## 2. rails philosophy
 
-* Database initialization
+see [rails philosophy](./docs/rails%20philosophy.md)
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+## 3.3 directory structure
+
+_not all structure is listed here, only those who I felt important or the ones that piques my interest to know more about_
+
+# PAREI AQUI VENDO SOBRE A VENDOR FOLDER https://useful.codes/the-vendor-directory-in-ruby-on-rails/
+
+| file/folder | purpose                                                                                                                |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------- |
+| app/        | contains the models, views, controllers, helpers, mailers, jobs and assets                                             |
+| bin/        | contains rails scripts that starts your app and may contain other scripts to set up, seed the database, deploy, etc... |
+| config/     | contains configurations for your application routes, databases and more                                                |
+| lib/        | contains extended modules for your application                                                                         |
+| vendor/     |                                                                                                                        |
+# References
+
+- [(rails guides # Getting Started with Rails)](https://guides.rubyonrails.org/getting_started.html)
