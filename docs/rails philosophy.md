@@ -11,7 +11,7 @@ major philosophys are **DRY** (don't repeat yourself) and **convention over conf
 
 ### what is DRY?
 
-#TODO
+see [dry](./dry.md)
 
 
 
@@ -27,3 +27,4 @@ see [convention over configuration](./convention%20over%20configuration.md)
 
 - [README.MD](./../README.md)
 - [convention over configuration](./convention%20over%20configuration.md)
+- [dry](./dry.md)
